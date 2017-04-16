@@ -41,6 +41,8 @@ fazer? <br>Quer realizar o sonho de ter um <b style="color: grey;">JOGO</b> só 
  
  <br>
  <br>
+	
+<!-- Primeira Coluna  !-->	
 <div id="coluna1" data-aos="fade">
 <img src="icons/dev.png" width="70" height="70"><br>
 <label style="font-size: 18px;"><b>DESENVOLVIMENTO</b></label>
@@ -54,6 +56,7 @@ fazer? <br>Quer realizar o sonho de ter um <b style="color: grey;">JOGO</b> só 
 - Dentre outros... <br>
 </div>
 
+<!-- Segunda Coluna  !-->
 <div id="coluna2" data-aos="fade">
 <img src="icons/manu.png" width="70" height="70"><br>
 <label style="font-size: 18px;"><b>MANUTENÇÃO</b></label><br><br>
@@ -64,7 +67,8 @@ fazer? <br>Quer realizar o sonho de ter um <b style="color: grey;">JOGO</b> só 
 - Limpeza de PC'S. <br>
 - Dentre outros... <br>
 </div>
- 
+
+<!-- Terceira Coluna  !-->
 <div id="coluna3" data-aos="fade">
 <img src="icons/bas.png" width="70" height="70"><br>
 <label style="font-size: 18px;"><b>INFORMÁTICA BÁSICA</b></label><br><br>
@@ -79,7 +83,7 @@ fazer? <br>Quer realizar o sonho de ter um <b style="color: grey;">JOGO</b> só 
 <button class="btn btn-1 btn-1a" name="logar" width="50%" height="50%" style="">Botão Maravilhoso Abaixo</button>
 </div>
 
-
+<!-- Fundão  !-->
 <div id="fundo" align="center"><br>
 Uma empresa por:<br>
 <label data-aos="fade-up">Saulo Joab | João Alves | Warley de Lima | Hélber Matias | Isaac Moraes</label><br>
